@@ -1,0 +1,7 @@
+{
+  "my_sql_adr": "127.0.0.1:3306",
+  "database_name": "test",
+  "account": "test",
+  "password": "test",
+  "page": 2000
+}

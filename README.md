@@ -1,2 +1,2 @@
 # biliwiki_clanrank
-爬取bilibili pcr wiki 的公会战排名
+一个高效，低占用的公会战排名爬虫，爬取2000页大约耗时2分钟
